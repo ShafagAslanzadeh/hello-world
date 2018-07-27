@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+I like to write program and to get more information about DataScience. 
+I am the new one in GitHub.
